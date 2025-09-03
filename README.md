@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Development, Python, Javascript, Web apps and andriod development
 - 🌱 I’m currently learning ...Bsics of Web Development
 - 💞️ I’m looking to collaborate on ...Web Development
-- 📫 How to reach me ... jasperezepue@gmail.com
+
 
 <!---
 Jhasparr/Jhasparr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
