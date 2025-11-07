@@ -41,7 +41,7 @@ AI • Data Visualization • Design • Automation • Web Performance
 
 - 💼 [LinkedIn](www.linkedin.com/in/ezepue-james)  
 - 📧 **jasperezepue@gmail.com**
-- 🌍 [Portfolio]((https://my-portfolio-delta-navy-20.vercel.app/)) 
+- 🌍 [Portfolio](https://my-portfolio-delta-navy-20.vercel.app/) 
 
 ---
 
